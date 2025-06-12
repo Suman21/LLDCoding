@@ -1,0 +1,14 @@
+✅ Elevator System Overview
+Classes:
+ElevatorSystem
+
+Elevator
+
+ElevatorRequest (internal or external)
+
+Person
+
+ElevatorController (scheduler)
+
+Enums: Direction, ElevatorState, RequestType
+

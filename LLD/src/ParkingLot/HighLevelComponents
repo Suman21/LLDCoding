@@ -1,0 +1,14 @@
+🧱 High-Level Components
+1. Vehicle – Abstract representation of a vehicle.
+
+2. ParkingSpot – Represents a spot where a vehicle can park.
+
+3. Floor – Each floor has multiple spots.
+
+4. ParkingLot – Central class managing floors, entries, exits.
+
+5. Ticket – Issued at entry, used for billing at exit.
+
+6. EntryGate / ExitGate – Handles entry/exit.
+
+7. BillingService – Calculates charges based on time and vehicle type.

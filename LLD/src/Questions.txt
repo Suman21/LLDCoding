@@ -1,0 +1,26 @@
+1. Design a Parking Lot System
+    - Handle multiple floors, entry/exit, billing, different vehicle types.
+
+2. Design a BookMyShow-like System
+    - Seats, booking, cancellation, payments, concurrency.
+
+3. Design an Elevator (Lift) System
+    -Multiple elevators, scheduling logic, requests.
+
+4. Design a Cab Booking System (like Uber)
+    - Driver tracking, ride assignment, matching algorithm.
+
+5. Design a Notification System
+    - Email/SMS/Push, scheduling, retries, templates.
+
+6. Design a File System (like UNIX FS)
+    - Folders, files, permissions, operations (read/write/delete).
+
+7. Design a Rate Limiter
+    - Token bucket, leaky bucket, sliding window approaches.
+
+8. Design a Hotel Management System
+    - Room booking, guest check-in/out, housekeeping.
+
+9. Design a Splitwise-like Expense Manager
+    - Groups, expenses, splits, settle up.

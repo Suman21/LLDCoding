@@ -1,0 +1,11 @@
+Here's a Low-Level Design (LLD) in Java for a BookMyShow-like system, covering:
+
+Seat management
+
+Booking
+
+Cancellation
+
+Payments
+
+Concurrency handling

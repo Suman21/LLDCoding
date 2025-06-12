@@ -1,0 +1,49 @@
+✅ Functional Requirements
+Rider can:
+
+Request a ride from source to destination.
+
+See nearby available cabs.
+
+Get matched to a driver.
+
+Driver can:
+
+Go online/offline.
+
+Accept/reject ride.
+
+Update location.
+
+System should:
+
+Match a nearby available driver using a matching algorithm (e.g., nearest).
+
+Track:
+
+Driver location in real-time.
+
+Ride status (REQUESTED, IN_PROGRESS, COMPLETED).
+
+✅ Core Classes and Relationships
+We’ll use the following design:
+
+User (base class)
+
+Rider
+
+Driver
+
+Location
+
+Ride
+
+RideService
+
+MatchingService
+
+DriverService (tracking + status)
+
+RiderService
+
+CabBookingSystem (Entry point)

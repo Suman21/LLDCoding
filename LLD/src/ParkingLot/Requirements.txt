@@ -1,0 +1,15 @@
+1. Multiple floors
+
+2. Entry and Exit points
+
+3. Billing for parking duration
+
+4. Different vehicle types: Car, Bike, Truck
+
+5. Each vehicle has a unique number
+
+6. Parking spots of different sizes
+
+7. Track availability per floor
+
+8. Issue a ticket on entry, calculate fee on exit
